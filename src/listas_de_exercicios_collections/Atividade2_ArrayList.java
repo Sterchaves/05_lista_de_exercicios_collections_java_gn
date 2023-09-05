@@ -1,5 +1,10 @@
 package listas_de_exercicios_collections;
 
-public class Atividade2_ArrayList {
+import java.util.Scanner;
 
+public class Atividade2_ArrayList {
+	public static void main(String[] args) {	
+		Scanner scanner = new Scanner(System.in);
+		
+	}
 }
